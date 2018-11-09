@@ -1,0 +1,26 @@
+.container {
+    border: 15px solid #bdc3c7;
+    margin: 0 auto;
+    width: 65%;
+    padding: 1%;
+}
+.date {
+    text-transform: uppercase;
+    color: #248f8f;
+}
+p, h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+p:nth-of-type(2) {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #d9d9d9;
+    margin: 1em 0;
+    padding: 0; 
+}
